@@ -8,7 +8,7 @@ body {
     width: 1000px;
     margin: 20px auto;
     box-sizing: border-box;
-    background-color: white;
+    background-color: pink;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 }
 
@@ -20,13 +20,13 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 15px;
-    background-color: #e0e0e8;
+    background-color: #ff33cc;
 }
 
 .header h1 {
     font-size: 50px;
     line-height: 10px;
-    color:#00205b;
+    color:#00ff00;
 }
 
 .container {
